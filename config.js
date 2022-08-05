@@ -55,8 +55,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = Bot WhatsApp 
-global.author = YamatoBot
+global.packname = stickerpack.spackname
+global.author = stickerpack.sauthor
 global.wm = '© Yamato'
 
 global.multiplier = 1000 // The higher, The harder levelup
